@@ -1,6 +1,9 @@
 # A Simple Notespace
-##### Concept: Basic Website that can be expanded further and further
-A single page with a single note you can write on.
+
+## What is this?
+I am code illiterate, but I also want to learn to make webapps.. The solution? Setting up a seemingly simple project that can snowball into having waaay too many features as I keep trying to do more.
+
+## Goals
 - Website Title and Description above the Note
 - Have nice colors
 - Resizes for Mobile
